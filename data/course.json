@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "435326d1-6389-d6a4-0f39-c487f9c7ad33"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Adaptive Antennas and Phased Arrays",
+  "course_description": "The 16 lectures in this course cover the topics of adaptive antennas and phased arrays. Both theory and experiments are covered in the lectures. Part one (lectures 1 to 7) covers adaptive antennas. Part two (lectures 8 to 16) covers phased arrays. Parts one and two can be studied independently (in either order). The intended audience for this course is primarily practicing engineers and students in electrical engineering. This course is presented by Dr. Alan J. Fenn, senior staff member at MIT Lincoln Laboratory.\n\n[Online Publication](http://www.ll.mit.edu/workshops/education/videocourses/antennas/index.html)\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.LL-002",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}

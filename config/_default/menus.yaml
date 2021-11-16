@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-b115969e2f1343bf9d032cf26b7645e5
+  name: Online Publication
+  url: http://www.ll.mit.edu/workshops/education/videocourses/antennas/index.html
+  weight: 1000
